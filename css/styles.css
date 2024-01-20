@@ -1,0 +1,150 @@
+body {
+  background-color: #eef5ff;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  margin: 0px;
+  color: #40514e;
+}
+
+h1 {
+  font-size: 5em;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  margin-top: 0;
+}
+
+.jobless {
+  text-decoration: line-through;
+}
+
+.the_intro {
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.the_person {
+  background-color: #b8fff9;
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+
+p {
+  line-height: 2;
+}
+
+.my_profile {
+  width: 32%;
+  margin: auto;
+}
+
+hr {
+  width: 4%;
+  border: dotted white 6px;
+  /* margin: 100px auto; */
+  border-bottom: none;
+}
+
+.my_hobbies {
+  color: #effffd;
+  padding-top: 80px;
+}
+
+h3 {
+  color: #11999e;
+}
+
+.hobby_list {
+  text-align: left;
+  width: 55%;
+  margin: 100px auto 100px auto;
+}
+
+.code_img {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.photograph_img {
+  float: right;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.hobbies_brief {
+  color: #000;
+  font-size: 1.2em;
+}
+
+.contact_me {
+  background-color: white;
+  padding: 80px 0px;
+  margin: 80px 0 0 0;
+}
+
+.contact_brief {
+  color: #000;
+  font-size: 1.2em;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  -webkit-border-radius: 19;
+  -moz-border-radius: 19;
+  border-radius: 19px;
+  font-family: Arial;
+  color: #fafafa;
+  font-size: 26px;
+  background: #2090e6;
+  padding: 10px 25px 10px 25px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+footer {
+  background-color: #bfcfe7;
+  padding: 100px;
+}
+
+.footer_link {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2em;
+  margin: 10px 20px;
+  text-decoration: none;
+  color: #11999e;
+}
+
+.copyright {
+  padding: 20px 0;
+  color: #eaf6f6;
+}
